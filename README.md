@@ -1,3 +1,6 @@
+Original repository.    
+https://github.com/uber-go/goleak     
+ 
 # goleak [![GoDoc][doc-img]][doc] [![Build Status][ci-img]][ci] [![Coverage Status][cov-img]][cov]
 
 Goroutine leak detector to help avoid Goroutine leaks.
